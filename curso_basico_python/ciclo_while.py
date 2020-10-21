@@ -1,6 +1,6 @@
 def main():
     LIMITE = 1000000
-    
+
     contador = 0
     potencia_2 = 2**contador
     while potencia_2 < LIMITE:
